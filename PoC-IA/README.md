@@ -12,5 +12,5 @@ O script `PoC-IA.ipynb` realiza um benchmark de vários algoritmos de aprendizad
 O conjunto de dados mais recente gerado é `foodtruck_dataset_50000_balanceado.csv`. Este conjunto de dados foi criado para garantir um equilíbrio entre registros com Conformidade_ESG igual a 0 e 1.
 
 ## Requisitos
-Python 3.x
-Bibliotecas Python: pandas, scikit-learn, matplotlib, seaborn
+- Python 3.x
+- Bibliotecas Python: pandas, scikit-learn, matplotlib, seaborn
